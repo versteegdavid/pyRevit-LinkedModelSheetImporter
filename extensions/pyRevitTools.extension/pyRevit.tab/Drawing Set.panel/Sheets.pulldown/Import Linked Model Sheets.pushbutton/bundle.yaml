@@ -1,0 +1,8 @@
+help_url: '{{docpath}}SJzs9ZxqRYc'
+title:
+  en_us: Import Linked Model Sheets
+tooltip:
+  en_us: >-
+    Automatically import sheets from linked models and place them as placeholder
+    sheets in the current model. If sheets already exist in current model, sheet
+    number and name will be updated.
