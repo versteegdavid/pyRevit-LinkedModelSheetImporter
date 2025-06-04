@@ -1,0 +1,18 @@
+{
+    "extensions": [
+        {
+            "builtin": "False",
+            "default_enabled": "True",
+            "type": "extension",
+            "rocket_mode_compatible": "True",
+            "name": "Linked Model Sheet Importer",
+            "description": "Extensions for PyRevit",
+            "author": "David Versteeg",
+            "author_profile": "https://github.com/versteegdavid",
+            "url": "https://github.com/versteegdavid/pyRevit-LinkedModelSheetImporter",
+            "website": "https://github.com/versteegdavid/pyRevit-LinkedModelSheetImporter",
+            "image": "",
+            "dependencies": []
+	}
+    ]
+}
